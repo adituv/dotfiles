@@ -205,7 +205,7 @@ let g:ale_linters.haskell = ['stack-ghc-mod', 'hlint']
 " ----- parsonsmatt/intero-neovim -----
 
 " Prefer starting Intero manually (faster startup times)
-let g:intero_start_immediately = 0
+let g:intero_start_immediately = 1
 " Use ALE (works even when not using Intero)
 let g:intero_use_neomake = 0
 
