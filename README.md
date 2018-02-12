@@ -25,12 +25,12 @@ fallback fonts.  See the [OS X installation instructions][atf-install].
 
 Remember to change `DEFAULT_USER` to the name of your user account, too.
 
-atf: https://github.com/gabrielelana/awesome-terminal-fonts
-atf-install: https://github.com/gabrielelana/awesome-terminal-fonts/wiki/OS-X
-haskell-stack: https://haskell-lang.org/get-started/osx
-intero: https://github.com/parsonsmatt/intero-neovim
-menlo: https://github.com/abertsch/Menlo-for-Powerline
-oh-my-zsh: https://github.com/robbyrussell/oh-my-zsh
-vundle: https://github.com/VundleVim/Vundle.vim
+[atf]: https://github.com/gabrielelana/awesome-terminal-fonts
+[atf-install]: https://github.com/gabrielelana/awesome-terminal-fonts/wiki/OS-X
+[haskell-stack]: https://haskell-lang.org/get-started/osx
+[intero]: https://github.com/parsonsmatt/intero-neovim
+[menlo]: https://github.com/abertsch/Menlo-for-Powerline
+[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
+[vundle]: https://github.com/VundleVim/Vundle.vim
 
 
