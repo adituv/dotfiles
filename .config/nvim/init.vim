@@ -40,6 +40,11 @@ Plugin 'alx741/vim-hindent'
 Plugin 'w0rp/ale'
 Plugin 'parsonsmatt/intero-neovim'
 
+" ----- Elixir plugins ------------------------------------------------
+Plugin 'elixir-lang/vim-elixir'
+Plugin 'powerman/vim-plugin-ansiesc'
+Plugin 'slashmili/alchemist.vim'
+
 " ----- Other text editing features -----------------------------------
 Plugin 'Raimondi/delimitMate'
 Plugin 'ntpeters/vim-better-whitespace'
