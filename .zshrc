@@ -2,7 +2,7 @@
 export PATH="$HOME/.local/bin:/usr/local/bin:$PATH"
 
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/iris/.oh-my-zsh
+export ZSH="$HOME/.oh-my-zsh"
 
 # Import custom glyph variables
 source ~/.fonts/devicons-regular.sh
@@ -16,8 +16,8 @@ POWERLEVEL9K_MODE='awesome-fontconfig'
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="powerlevel9k/powerlevel9k"
 
-DEFAULT_USER="iris"
-EDITOR="nvim"
+DEFAULT_USER="aditu"
+EDITOR="emacs"
 POWERLEVEL9K_STATUS_VERBOSE=false
 
 POWERLEVEL9K_FAIL_ICON="\u2717"
@@ -121,6 +121,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 eval $(thefuck --alias)
