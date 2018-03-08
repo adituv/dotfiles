@@ -1,3 +1,5 @@
+export TERM="xterm-256color"
+
 # Import custom glyph variables
 source ~/.fonts/devicons-regular.sh
 source ~/.fonts/fontawesome-regular.sh
@@ -11,7 +13,7 @@ POWERLEVEL9K_MODE='awesome-fontconfig'
 ZSH_THEME="powerlevel9k/powerlevel9k"
 
 DEFAULT_USER="aditu"
-EDITOR="emacs"
+EDITOR="nvim"
 POWERLEVEL9K_STATUS_VERBOSE=false
 
 POWERLEVEL9K_FAIL_ICON="\u2717"
